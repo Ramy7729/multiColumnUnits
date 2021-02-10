@@ -1,0 +1,37 @@
+body {
+    background: yellow;
+    
+}
+
+#box {
+    width: 400px;
+    height: 900px;
+    background-color: red;
+    display: inline-block;
+}
+
+#box2 {
+    width: 400px;
+    height: 900px;
+    background-color: green;
+    display: inline-block;
+}
+
+#box3 {
+    width: 400px;
+    height: 900px;
+    background-color:blue;
+    display: inline-block;
+}
+
+#box4 {
+    width: 400px;
+    height: 900px;
+    background-color:purple;
+    display: inline-block;
+}
+
+.center {
+    margin: 0px auto;
+    width: 1620px;
+}
