@@ -1,6 +1,8 @@
+
+
 body {
     background: yellow;
-    
+    height: 300vh;
 }
 
 #box {
@@ -8,6 +10,7 @@ body {
     height: 900px;
     background-color: red;
     display: inline-block;
+    font-size: 2em;
 }
 
 #box2 {
@@ -15,6 +18,7 @@ body {
     height: 900px;
     background-color: green;
     display: inline-block;
+    font-size: 3rem; 
 }
 
 #box3 {
@@ -34,4 +38,24 @@ body {
 .center {
     margin: 0px auto;
     width: 1620px;
+
 }
+
+div div {
+    vertical-align: top;
+}
+
+#percentVw {
+    width: 40vw;
+    height: 40%;
+    background-color: cyan;
+    display: block;
+    font-size: 2rem;
+}
+
+#pt {
+    width: 200pt;
+    background-color: cornflowerblue;
+}
+
+
